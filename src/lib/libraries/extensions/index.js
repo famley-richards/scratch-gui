@@ -25,31 +25,27 @@ export default [
         extensionURL: '',
         iconURL: wedoImage,
         description: 'Build with motors and sensors.',
-        featured: true,
-        disabled: true
+        featured: true
     },
     {
         name: 'Speech',
         extensionURL: '',
         iconURL: speechImage,
         description: 'Talk to your projects.',
-        featured: true,
-        disabled: true
+        featured: true
     },
     {
         name: 'Video Sensing',
         extensionURL: '',
         iconURL: videoImage,
         description: 'Detect motion with the camera.',
-        featured: true,
-        disabled: true
+        featured: true
     },
     {
         name: 'LEGO Boost',
         extensionURL: '',
         iconURL: boostImage,
         description: 'Build robots and more.',
-        featured: true,
-        disabled: true
+        featured: true
     }
 ];
